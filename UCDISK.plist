@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://git.oschina.net/geeekr/ucdisk-soho/raw/master/UCDISK.ipa</string>
+					<string>https://github.com/geeekr/playground/raw/master/UCDISK.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ucdisk.ucdisk</string>
+				<string>com.sohochina.ucdisk</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.6.20.13</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SOHO</string>
+				<string>SOHO云盘</string>
 			</dict>
 		</dict>
 	</array>
